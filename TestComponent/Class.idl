@@ -1,0 +1,10 @@
+namespace TestComponent
+{
+    [default_interface]
+    runtimeclass Class
+    {
+        Class();
+        
+        void ShowMessage(String message);
+    }
+}
